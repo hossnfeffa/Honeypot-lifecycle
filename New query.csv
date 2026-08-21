@@ -1,0 +1,5 @@
+﻿Latitude,Longitude,MapLabel,Attempts,Successes,Failures,RemoteIP,Country,City,Accounts,FirstSeen,LastSeen,IsKnownIOC
+21.9974,79.0011,103.241.232.93 (India) — 3 success / 9 total,9,3,6,103.241.232.93,India,,"[""administrator""]","Aug 14, 2026 3:54:19 PM","Aug 14, 2026 3:57:45 PM",0
+22.2578,114.1657,42.98.133.108 (Hong Kong) — 3 success / 3 total,3,3,0,42.98.133.108,Hong Kong,,"[""administrator""]","Aug 16, 2026 9:37:25 PM","Aug 16, 2026 9:39:42 PM",0
+54.4771,18.5128,188.252.76.146 (Poland) — 0 success / 289 total,289,0,289,188.252.76.146,Poland,Gdynia,"[""vmadmin"",""azureadmin"",""demouser"",""azureuser"",""student"",""admin"",""administrator"",""user""]","Aug 14, 2026 7:08:05 PM","Aug 17, 2026 1:52:16 PM",1
+49.4527,11.0783,152.53.120.71 (Germany) — 0 success / 1 total,1,0,1,152.53.120.71,Germany,Nuremberg,"[""administrator""]","Aug 17, 2026 1:19:16 PM","Aug 17, 2026 1:19:16 PM",1

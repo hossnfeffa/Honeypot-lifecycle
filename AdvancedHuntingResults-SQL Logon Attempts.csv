@@ -1,0 +1,208 @@
+﻿TimeGenerated,DeviceName,Username,IpAddress,ActionType,RawData
+"Aug 17, 2026 1:05:24 PM",corp-na01-bp123na,root,213.209.159.115,LogonSuccess,2026-08-17T19:05:24.737972Z    24 Connect root@213.209.159.115 on  using SSL/TLS
+"Aug 17, 2026 1:05:24 PM",corp-na01-bp123na,sa,213.209.159.115,LogonFailure,2026-08-17T19:05:24.280284Z    23 Connect Access denied for user 'sa'@'213.209.159.115' (using password: NO)
+"Aug 17, 2026 1:05:23 PM",corp-na01-bp123na,root,213.209.159.115,LogonFailure,2026-08-17T19:05:23.259576Z    21 Connect Access denied for user 'root'@'213.209.159.115' (using password: NO)
+"Aug 17, 2026 1:05:23 PM",corp-na01-bp123na,admin,213.209.159.115,LogonFailure,2026-08-17T19:05:23.811360Z    22 Connect Access denied for user 'admin'@'213.209.159.115' (using password: NO)
+"Aug 17, 2026 12:51:16 PM",corp-na01-bp123na,root,64.89.163.154,LogonSuccess,2026-08-17T18:51:16.596623Z    19 Connect root@64.89.163.154 on  using TCP/IP
+"Aug 17, 2026 12:32:31 PM",corp-na01-bp123na,sa,77.90.185.30,LogonFailure,2026-08-17T18:32:31.048880Z    17 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 12:32:31 PM",corp-na01-bp123na,root,77.90.185.30,LogonSuccess,2026-08-17T18:32:31.604661Z    18 Connect root@77.90.185.30 on  using SSL/TLS
+"Aug 17, 2026 12:32:30 PM",corp-na01-bp123na,admin,77.90.185.30,LogonFailure,2026-08-17T18:32:30.493579Z    16 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 12:32:29 PM",corp-na01-bp123na,root,77.90.185.30,LogonFailure,2026-08-17T18:32:29.808630Z    15 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 11:12:33 AM",corp-na01-bp123na,root,77.90.185.30,LogonSuccess,2026-08-17T17:12:33.089921Z    13 Connect root@77.90.185.30 on  using SSL/TLS
+"Aug 17, 2026 11:12:32 AM",corp-na01-bp123na,sa,77.90.185.30,LogonFailure,2026-08-17T17:12:32.419999Z    12 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 11:12:32 AM",corp-na01-bp123na,admin,77.90.185.30,LogonFailure,2026-08-17T17:12:31.850092Z    11 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 11:12:31 AM",corp-na01-bp123na,root,77.90.185.30,LogonFailure,2026-08-17T17:12:31.163327Z    10 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 1:51:28 AM",corp-na01-bp123na,root,77.90.185.30,LogonSuccess,2026-08-17T07:51:28.958396Z   199 Connect root@77.90.185.30 on  using SSL/TLS
+"Aug 17, 2026 1:51:28 AM",corp-na01-bp123na,sa,77.90.185.30,LogonFailure,2026-08-17T07:51:28.412652Z   198 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 1:51:27 AM",corp-na01-bp123na,admin,77.90.185.30,LogonFailure,2026-08-17T07:51:27.759283Z   197 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 1:51:27 AM",corp-na01-bp123na,root,77.90.185.30,LogonFailure,2026-08-17T07:51:27.102457Z   196 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 12:42:53 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:42:53.187582Z   194 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:42:52 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:42:52.339956Z   192 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:42:52 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:42:52.717479Z   193 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:42:52 AM",corp-na01-bp123na,root,64.89.163.176,LogonFailure,2026-08-17T06:42:52.051232Z   191 Connect Access denied for user 'root'@'64.89.163.176' (using password: NO)
+"Aug 17, 2026 12:42:20 AM",corp-na01-bp123na,root,64.89.163.176,LogonFailure,2026-08-17T06:42:19.914205Z   189 Connect Access denied for user 'root'@'64.89.163.176' (using password: NO)
+"Aug 17, 2026 12:42:20 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:42:20.194927Z   190 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:31:29 AM",corp-na01-bp123na,root,77.90.185.30,LogonSuccess,2026-08-17T06:31:29.181664Z   187 Connect root@77.90.185.30 on  using SSL/TLS
+"Aug 17, 2026 12:31:28 AM",corp-na01-bp123na,sa,77.90.185.30,LogonFailure,2026-08-17T06:31:28.612201Z   186 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 12:31:28 AM",corp-na01-bp123na,admin,77.90.185.30,LogonFailure,2026-08-17T06:31:27.948272Z   185 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 12:31:27 AM",corp-na01-bp123na,root,77.90.185.30,LogonFailure,2026-08-17T06:31:27.285321Z   184 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Aug 17, 2026 12:09:55 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:09:54.919925Z   182 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:09:54 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:09:54.443070Z   181 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:09:54 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:09:54.065829Z   180 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:09:53 AM",corp-na01-bp123na,root,64.89.163.176,LogonFailure,2026-08-17T06:09:53.788187Z   179 Connect Access denied for user 'root'@'64.89.163.176' (using password: NO)
+"Aug 17, 2026 12:09:44 AM",corp-na01-bp123na,root,64.89.163.176,LogonSuccess,2026-08-17T06:09:43.857461Z   178 Connect root@64.89.163.176 on  using TCP/IP
+"Aug 17, 2026 12:09:43 AM",corp-na01-bp123na,root,64.89.163.176,LogonFailure,2026-08-17T06:09:43.588451Z   177 Connect Access denied for user 'root'@'64.89.163.176' (using password: NO)
+"Aug 16, 2026 11:46:16 PM",corp-na01-bp123na,sa,77.90.185.21,LogonFailure,2026-08-17T05:46:15.888760Z   174 Connect Access denied for user 'sa'@'77.90.185.21' (using password: NO)
+"Aug 16, 2026 11:46:16 PM",corp-na01-bp123na,root,77.90.185.21,LogonSuccess,2026-08-17T05:46:16.442794Z   175 Connect root@77.90.185.21 on  using SSL/TLS
+"Aug 16, 2026 11:46:15 PM",corp-na01-bp123na,admin,77.90.185.21,LogonFailure,2026-08-17T05:46:15.223541Z   173 Connect Access denied for user 'admin'@'77.90.185.21' (using password: NO)
+"Aug 16, 2026 11:46:14 PM",corp-na01-bp123na,root,77.90.185.21,LogonFailure,2026-08-17T05:46:14.557225Z   172 Connect Access denied for user 'root'@'77.90.185.21' (using password: NO)
+"Aug 16, 2026 11:42:48 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:48.130154Z   170 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:47 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:47.315243Z   168 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:47 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:47.673826Z   169 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:46 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:46.312550Z   167 Connect root@64.89.163.90 on recover_your_data using SSL/TLS
+"Aug 16, 2026 11:42:44 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:44.322911Z   166 Connect root@64.89.163.90 on  using SSL/TLS
+"Aug 16, 2026 11:42:43 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:42.988332Z   164 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:43 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:43.354679Z   165 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:42 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:42.250958Z   162 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:42 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:42.618265Z   163 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:41 PM",corp-na01-bp123na,root,64.89.163.90,LogonFailure,2026-08-17T05:42:41.152644Z   159 Connect Access denied for user 'root'@'64.89.163.90' (using password: NO)
+"Aug 16, 2026 11:42:41 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:41.425531Z   160 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:42:41 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:42:41.796003Z   161 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:41:24 PM",corp-na01-bp123na,root,64.89.163.90,LogonSuccess,2026-08-17T05:41:24.756509Z   158 Connect root@64.89.163.90 on  using TCP/IP
+"Aug 16, 2026 11:41:24 PM",corp-na01-bp123na,root,64.89.163.90,LogonFailure,2026-08-17T05:41:24.478890Z   157 Connect Access denied for user 'root'@'64.89.163.90' (using password: NO)
+"Aug 16, 2026 11:10:38 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:38.438264Z   155 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:37 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:37.281011Z   154 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:36 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:36.137236Z   153 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:35 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:34.991931Z   152 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:34 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:33.846005Z   151 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:32 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:32.704512Z   150 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:31 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:31.565002Z   149 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:30 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:30.411986Z   148 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:29 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:29.221542Z   147 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:28 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:28.074622Z   146 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:27 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:26.937166Z   145 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:26 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:25.794630Z   144 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:24 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:24.577111Z   143 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:23 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:23.440788Z   142 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:22 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:22.302047Z   141 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:21 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:21.160705Z   140 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:20 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:20.024087Z   139 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:19 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:18.864772Z   138 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:17 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:17.729621Z   137 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:16 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:16.588576Z   136 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:15 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:15.445413Z   135 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:14 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:14.305033Z   134 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:13 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:13.160381Z   133 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:12 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:12.017092Z   132 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:11 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:10.873283Z   131 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:09 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:09.721288Z   130 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:08 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:08.574165Z   129 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:07 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:07.435273Z   128 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:06 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:06.295893Z   127 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:05 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:05.139003Z   126 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:04 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:04.003440Z   125 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:03 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:02.869342Z   124 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:01 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:01.731049Z   123 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:10:00 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:10:00.584518Z   122 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:59 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:59.447148Z   121 Connect Access denied for user 'root'@'68.178.163.174' (using password: NO)
+"Aug 16, 2026 11:09:59 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:58.763710Z   120 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:57 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:57.629078Z   119 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:56 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:56.485789Z   118 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:55 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:55.341453Z   117 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:54 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:54.192570Z   116 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:53 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:53.051698Z   115 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:52 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:51.913225Z   114 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:50 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:50.760889Z   113 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:49 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:49.619337Z   112 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:48 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:48.465869Z   111 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:47 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:47.321090Z   110 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:46 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:46.181240Z   109 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:45 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:45.044320Z   108 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:44 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:43.909712Z   107 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:43 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:42.775866Z   106 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:41 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:41.633158Z   105 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:40 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:40.478792Z   104 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:39 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:39.333766Z   103 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:38 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:38.191519Z   102 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:37 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:37.052301Z   101 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:36 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:35.912359Z   100 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:35 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:34.764562Z    99 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:33 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:33.621725Z    98 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:32 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:32.483431Z    97 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:31 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:31.325765Z    96 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:30 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:30.177034Z    95 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:29 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:29.032979Z    94 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:28 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:27.894119Z    93 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:26 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:26.753300Z    92 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:25 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:25.608702Z    91 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:24 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:24.460680Z    90 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:23 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:23.323960Z    89 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:22 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:22.190571Z    88 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:21 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:21.047496Z    87 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:20 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:19.905313Z    86 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:19 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:18.766192Z    85 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:17 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:17.625327Z    84 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:16 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:16.474548Z    83 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:15 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:15.331240Z    82 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:14 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:14.184054Z    81 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:13 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:13.045304Z    80 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:12 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:11.887098Z    79 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:10 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:10.740477Z    78 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:09 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:09.599440Z    77 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:08 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:08.452942Z    76 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:07 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:07.305065Z    75 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:06 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:06.166231Z    74 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:05 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:05.021771Z    73 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:04 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:03.879611Z    72 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:02 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:02.729791Z    71 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:01 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:01.543784Z    70 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:09:00 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:09:00.397932Z    69 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:59 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:59.258790Z    68 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:58 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:58.118384Z    67 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:57 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:56.984516Z    66 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:56 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:55.836114Z    65 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:54 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:54.666333Z    64 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:53 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:53.513993Z    63 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:52 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:52.370023Z    62 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:51 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:51.230136Z    61 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:50 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:50.084566Z    60 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:49 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:48.947436Z    59 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:48 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:47.805168Z    58 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:46 PM",corp-na01-bp123na,root,68.178.163.174,LogonFailure,2026-08-17T05:08:46.665244Z    57 Connect Access denied for user 'root'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:08:45 PM",corp-na01-bp123na,root_dev,68.178.163.174,LogonFailure,2026-08-17T05:08:45.517187Z    56 Connect Access denied for user 'root_dev'@'68.178.163.174' (using password: YES)
+"Aug 16, 2026 11:07:16 PM",corp-na01-bp123na,root,77.90.185.30,LogonSuccess,2026-08-17T05:07:16.010282Z    54 Connect root@77.90.185.30 on  using SSL/TLS
+"Aug 16, 2026 11:07:15 PM",corp-na01-bp123na,sa,77.90.185.30,LogonFailure,2026-08-17T05:07:15.455583Z    53 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 11:07:15 PM",corp-na01-bp123na,admin,77.90.185.30,LogonFailure,2026-08-17T05:07:14.790079Z    52 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 11:07:14 PM",corp-na01-bp123na,root,77.90.185.30,LogonFailure,2026-08-17T05:07:14.124107Z    51 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 10:33:17 PM",corp-na01-bp123na,root,213.209.159.115,LogonSuccess,2026-08-17T04:33:17.783716Z    48 Connect root@213.209.159.115 on  using SSL/TLS
+"Aug 16, 2026 10:33:17 PM",corp-na01-bp123na,sa,213.209.159.115,LogonFailure,2026-08-17T04:33:17.312993Z    47 Connect Access denied for user 'sa'@'213.209.159.115' (using password: NO)
+"Aug 16, 2026 10:33:16 PM",corp-na01-bp123na,admin,213.209.159.115,LogonFailure,2026-08-17T04:33:16.754095Z    46 Connect Access denied for user 'admin'@'213.209.159.115' (using password: NO)
+"Aug 16, 2026 10:33:16 PM",corp-na01-bp123na,root,213.209.159.115,LogonFailure,2026-08-17T04:33:16.185158Z    45 Connect Access denied for user 'root'@'213.209.159.115' (using password: NO)
+"Aug 16, 2026 10:07:10 PM",corp-na01-bp123na,,,LogonSuccess,2026-08-17T04:07:10.062806Z    41 Connect 
+"Aug 16, 2026 10:06:56 PM",corp-na01-bp123na,,,LogonSuccess,2026-08-17T04:06:56.377782Z    40 Connect 
+"Aug 16, 2026 9:47:15 PM",corp-na01-bp123na,root,77.90.185.30,LogonSuccess,2026-08-17T03:47:15.342227Z    39 Connect root@77.90.185.30 on  using SSL/TLS
+"Aug 16, 2026 9:47:14 PM",corp-na01-bp123na,admin,77.90.185.30,LogonFailure,2026-08-17T03:47:14.140498Z    37 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 9:47:14 PM",corp-na01-bp123na,sa,77.90.185.30,LogonFailure,2026-08-17T03:47:14.795810Z    38 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 9:47:13 PM",corp-na01-bp123na,root,77.90.185.30,LogonFailure,2026-08-17T03:47:13.485374Z    36 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 8:43:10 PM",corp-na01-bp123na,root,34.77.20.118,LogonSuccess,2026-08-17T02:43:10.589161Z    33 Connect root@34.77.20.118 on  using TCP/IP
+"Aug 16, 2026 8:43:10 PM",corp-na01-bp123na,client,,LogonSuccess,2026-08-17T02:43:10.589121Z    33 Connect Client does not support authentication protocol requested by server; consider upgrading MySQL client
+"Aug 16, 2026 8:43:10 PM",corp-na01-bp123na,,34.77.20.118,LogonSuccess,2026-08-17T02:43:10.284276Z    32 Connect @34.77.20.118 on  using TCP/IP
+"Aug 16, 2026 8:43:10 PM",corp-na01-bp123na,client,,LogonSuccess,2026-08-17T02:43:10.284199Z    32 Connect Client does not support authentication protocol requested by server; consider upgrading MySQL client
+"Aug 16, 2026 8:34:20 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:34:20.799854Z    29 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:34:12 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:34:12.498084Z    27 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:34:08 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:34:08.319291Z    26 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:34:04 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:34:04.172860Z    25 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:34:00 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:34:00.032203Z    24 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:33:43 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:33:43.488578Z    20 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:33:35 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:33:35.052640Z    19 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:33:33 PM",corp-na01-bp123na,root,194.32.120.109,LogonSuccess,2026-08-17T02:33:32.916476Z    18 Connect root@194.32.120.109 on  using SSL/TLS
+"Aug 16, 2026 8:27:15 PM",corp-na01-bp123na,sa,77.90.185.30,LogonFailure,2026-08-17T02:27:15.247911Z    16 Connect Access denied for user 'sa'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 8:27:14 PM",corp-na01-bp123na,admin,77.90.185.30,LogonFailure,2026-08-17T02:27:14.575075Z    15 Connect Access denied for user 'admin'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 8:27:14 PM",corp-na01-bp123na,root,77.90.185.30,LogonFailure,2026-08-17T02:27:13.886380Z    14 Connect Access denied for user 'root'@'77.90.185.30' (using password: NO)
+"Aug 16, 2026 3:20:40 PM",corp-na01-bp123na,root,64.89.163.94,LogonFailure,2026-08-16T21:20:40.689128Z    10 Connect Access denied for user 'root'@'64.89.163.94' (using password: NO)
+"Aug 14, 2026 6:19:32 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:32.730711Z    55 Connect root@64.89.163.89 on sakila using SSL/TLS
+"Aug 14, 2026 6:19:30 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:30.684527Z    54 Connect root@64.89.163.89 on  using SSL/TLS
+"Aug 14, 2026 6:19:25 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:25.263735Z    50 Connect root@64.89.163.89 on  using SSL/TLS
+"Aug 14, 2026 6:19:24 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:24.094870Z    49 Connect root@64.89.163.89 on sakila using SSL/TLS
+"Aug 14, 2026 6:19:22 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:22.273763Z    48 Connect root@64.89.163.89 on  using SSL/TLS
+"Aug 14, 2026 6:19:18 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:18.254599Z    44 Connect root@64.89.163.89 on  using TCP/IP
+"Aug 14, 2026 6:19:18 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:17.894841Z    43 Connect root@64.89.163.89 on  using TCP/IP
+"Aug 14, 2026 6:19:15 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:15.647012Z    42 Connect root@64.89.163.89 on lnp_corp using SSL/TLS
+"Aug 14, 2026 6:19:13 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:13.048478Z    40 Connect root@64.89.163.89 on lnp_corp using SSL/TLS
+"Aug 14, 2026 6:19:13 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:13.724264Z    41 Connect root@64.89.163.89 on  using SSL/TLS
+"Aug 14, 2026 6:19:11 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:11.051520Z    39 Connect root@64.89.163.89 on  using SSL/TLS
+"Aug 14, 2026 6:19:05 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:05.429936Z    35 Connect root@64.89.163.89 on  using SSL/TLS
+"Aug 14, 2026 6:19:04 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:04.470140Z    34 Connect root@64.89.163.89 on  using TCP/IP
+"Aug 14, 2026 6:19:04 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:04.099539Z    33 Connect root@64.89.163.89 on  using TCP/IP
+"Aug 14, 2026 6:19:03 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:03.248686Z    31 Connect root@64.89.163.89 on  using TCP/IP
+"Aug 14, 2026 6:19:03 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:19:03.627517Z    32 Connect root@64.89.163.89 on  using TCP/IP
+"Aug 14, 2026 6:19:03 PM",corp-na01-bp123na,root,64.89.163.89,LogonFailure,2026-08-15T00:19:02.961534Z    30 Connect Access denied for user 'root'@'64.89.163.89' (using password: NO)
+"Aug 14, 2026 6:16:54 PM",corp-na01-bp123na,root,64.89.163.89,LogonSuccess,2026-08-15T00:16:53.880440Z    29 Connect root@64.89.163.89 on  using TCP/IP
+"Aug 14, 2026 6:16:53 PM",corp-na01-bp123na,root,64.89.163.89,LogonFailure,2026-08-15T00:16:53.416758Z    28 Connect Access denied for user 'root'@'64.89.163.89' (using password: NO)
+"Aug 14, 2026 1:20:01 PM",corp-na01-bp123na,root,localhost,LogonFailure,2026-08-14T19:20:01.495084Z    14 Connect Access denied for user 'root'@'localhost' (using password: NO)
+"Aug 14, 2026 9:48:18 AM",corp-na01-bp123na,root,localhost,LogonSuccess,2026-08-14T15:48:18.627883Z    13 Connect root@localhost on  using SSL/TLS
+"Aug 14, 2026 9:48:14 AM",corp-na01-bp123na,root,localhost,LogonFailure,2026-08-14T15:48:14.040385Z    11 Connect Access denied for user 'root'@'localhost' (using password: NO)
+"Aug 14, 2026 9:47:57 AM",corp-na01-bp123na,root,localhost,LogonSuccess,2026-08-14T15:47:57.388857Z     9 Connect root@localhost on  using SSL/TLS
+"Aug 14, 2026 9:47:23 AM",corp-na01-bp123na,root,localhost,LogonFailure,2026-08-14T15:47:22.784957Z     8 Connect Access denied for user 'root'@'localhost' (using password: NO)
+"Aug 14, 2026 9:31:26 AM",corp-na01-bp123na,root,localhost,LogonSuccess,2026-08-14T15:31:26.559707Z     9 Connect root@localhost on  using SSL/TLS
+"Aug 14, 2026 8:47:22 AM",corp-na01-bp123na,root,localhost,LogonFailure,2026-08-14T14:47:22.881145Z     8 Connect Access denied for user 'root'@'localhost' (using password: NO)
