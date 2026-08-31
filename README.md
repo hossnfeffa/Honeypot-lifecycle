@@ -22,7 +22,7 @@ Honeypot-lifecycle/
 ├── queries/                             # KQL query exports and raw telemetry CSVs (MySQL Audit & SQL Logons)
 ├── reports/                             # Incident Response (IR) reports and breach analysis documentation
 ├── workbooks/                           # Azure Sentinel Workbook JSON templates (InboundAuth.json)
-├── Advanced Honey Pot w_Live Breach Checklist.pdf  # Detailed step-by-step lab walkthrough & methodology
+├── Honeypot_Checklist.pdf               # Detailed step-by-step lab walkthrough & methodology
 └── README.md                            # Project documentation
 ---
 ```
