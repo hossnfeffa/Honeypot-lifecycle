@@ -25,7 +25,7 @@ Honeypot-lifecycle/
 ├── Advanced Honey Pot w_Live Breach.md  # Detailed step-by-step lab walkthrough & methodology
 └── README.md                            # Project documentation
 ---
-
+```
 ## 🔍 Key Findings & Telemetry
 
 * **Inbound Auth Telemetry:** Captured brute-force and credential stuffing activity across exposed ports, parsing out IP addresses, failure counts, and targeted account names.
