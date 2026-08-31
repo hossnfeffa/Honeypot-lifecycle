@@ -24,3 +24,20 @@ Honeypot-lifecycle/
 ├── workbooks/                           # Azure Sentinel Workbook JSON templates (InboundAuth.json)
 ├── Advanced Honey Pot w_Live Breach.md  # Detailed step-by-step lab walkthrough & methodology
 └── README.md                            # Project documentation
+---
+
+## 🔍 Key Findings & Telemetry
+
+* **Inbound Auth Telemetry:** Captured brute-force and credential stuffing activity across exposed ports, parsing out IP addresses, failure counts, and targeted account names.
+* **Geolocation Mapping:** Aggregated source IPs by geographic region to map global attack sources.
+* **Post-Exploitation Forensics:** Examined MDE forensic packages for spawned processes, persistence attempts, and lateral movement post-compromise.
+
+---
+
+## 🚀 Azure Workbook Deployment
+
+To load the included workbook into your Azure Sentinel environment:
+1. Navigate to **Microsoft Sentinel** > **Workbooks**.
+2. Click **Add workbook** > **Edit** > **Advanced Editor** (`</>`).
+3. Copy the contents of [`workbooks/InboundAuth.json`](./workbooks/InboundAuth.json) and paste them into the editor.
+4. Click **Apply** and save the workbook.
